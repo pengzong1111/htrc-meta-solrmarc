@@ -1,0 +1,3 @@
+2013-08-04 00:10:11,728 [main] INFO  main org.solrmarc.marc.MarcImporter - Starting SolrMarc indexing.
+2013-08-04 00:10:11,781 [main] ERROR main org.solrmarc.tools.Utils - Fatal error: Unable to find specified properties file: config.properties
+2013-08-04 00:10:11,781 [main] ERROR main org.solrmarc.marc.MarcImporter - Fatal error: Unable to find specified properties file: config.properties
